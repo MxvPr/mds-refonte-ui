@@ -5,6 +5,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
+  
     <h1>MyDigitalSchool</h1>
  
   </div>
